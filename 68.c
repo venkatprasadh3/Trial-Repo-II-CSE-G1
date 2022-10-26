@@ -1,3 +1,6 @@
 #include<stdio.h>
-
-//Sample type your code.
+int main()
+{
+    \\This belongs to 21Z268
+    printf("Hello");
+}
